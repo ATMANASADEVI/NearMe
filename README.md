@@ -56,7 +56,6 @@ Execute the programs and publish them.
 </body>
 </html>
 
-
 <html>
 <head>
 <title>Mycity</title>
@@ -75,7 +74,6 @@ Dr.Praba is the founder of Vcare Clinic in Ambattur, Chennai, specializes in hai
 </p>
 </body>
 </html>
-
 
 <html>
 <head>
@@ -96,7 +94,6 @@ Thangal Park is located in the Kallikuppam area of Ambattur, Chennai, part of th
 </body>
 </html>
 
-
 <html>
 <head>
 <title>My city</title>
@@ -116,7 +113,6 @@ Sir Ivan Stedeford Hospital in Ambattur, Chennai, is a well-known multispecialty
 </body>
 </html>
 
-
 <html>
 <head>
 <title>My city</title>
@@ -135,7 +131,6 @@ Naidu Hall, a popular clothing store chain in Chennai, specializes in women's in
 </p>
 </body>
 </html>
-
 
 <html>
 <head>
