@@ -72,7 +72,7 @@ Execute the programs and publish them.
 <p align="justify" style="font-size: larger; font-family: 'Times New Roman';">
 <front face="New Times Roman"  size="5px">
 Dr.Praba is the founder of Vcare Clinic in Ambattur, Chennai, specializes in hair and skin care solutions. Located at Prince Info Park, Tower B, Ambattur Industrial Estate, the clinic offers treatments like hair transplants, PRP therapy, and advanced diagnostics for hair loss and skin issues. Known for its modern facilities and qualified staff, VCare has become a trusted name for personalized cosmetic and trichology treatments. VCare, located in Ambattur, Chennai, specializes in hair and skin treatments. It offers advanced solutions for issues such as hair loss, dandruff, pigmentation, acne, and anti-aging. The clinic provides services like hair transplantation, laser hair removal, and customized skincare treatments. They also focus on holistic approaches, including lifestyle and dietary recommendations​.
-<p>
+</p>
 </body>
 </html>
 
@@ -92,7 +92,7 @@ Dr.Praba is the founder of Vcare Clinic in Ambattur, Chennai, specializes in hai
 <p align="justify" style="font-size: larger; font-family: 'Times New Roman';">
 <front face="New Times Roman"  size="5px">
 Thangal Park is located in the Kallikuppam area of Ambattur, Chennai, part of the city's Zone 7. It is known for being close to residential neighborhoods and urban amenities. Ambattur itself is a major suburb of Chennai, featuring notable infrastructure like Sir Ivan Stedeford Hospital and access to railway stations such as Ambattur and Pattaravakkam, offering strong connectivity.Thangal Pond Park, located in Vijayalakshmi Puram, Ambattur, Chennai, is a serene spot popular for morning walks, jogging, and leisure activities. It features a peaceful ambiance with lush greenery, making it suitable for families and fitness enthusiasts. Visitors appreciate its tree coverage and play area for kids, though some suggest better maintenance.
-<p>
+</p>
 </body>
 </html>
 
@@ -112,7 +112,7 @@ Thangal Park is located in the Kallikuppam area of Ambattur, Chennai, part of th
 <p align="justify" style="font-size: larger; font-family: 'Times New Roman';">
 <front face="New Times Roman"  size="5px">
 Sir Ivan Stedeford Hospital in Ambattur, Chennai, is a well-known multispecialty hospital established in 1966 by the AMM Foundation. Named after Sir Ivan Stedeford, a philanthropist and industrialist, the hospital offers comprehensive services across departments like cardiology, neurology, oncology, urology, and pediatrics.It is equipped with modern facilities, including ICUs, NICUs, dialysis units, advanced diagnostic tools (CT, MRI), and specialized surgical units. The hospital performs approximately 6,500 surgeries annually and treats over 450,000 patients each year. It also emphasizes education and research in healthcare.Sir Ivan Stedeford Hospital in Ambattur, Chennai, is a multi-specialty hospital established in 1966 under the AMM Foundation. It offers modern medical facilities and services, including cardiology, gastroenterology, orthopedics, urology, ENT, and general surgery. The hospital features a 200-bed capacity, emergency care, a blood bank, diagnostics (MRI, CT, ultrasound), and advanced operation theaters. It also has a dialysis unit, pharmacy, and a well-equipped laboratory.
-<p>
+</p>
 </body>
 </html>
 
@@ -136,6 +136,7 @@ Naidu Hall, a popular clothing store chain in Chennai, specializes in women's in
 </body>
 </html>
 
+
 <html>
 <head>
 <title>My city</title>
@@ -151,6 +152,7 @@ Naidu Hall, a popular clothing store chain in Chennai, specializes in women's in
 <p align="justify" style="font-size: larger; font-family: 'Times New Roman';">
 <front face="New Times Roman" color="darkolivegreen" size="6px">Oragadam, located near Chennai, is a rapidly developing industrial and residential hub. Known as South Asia’s largest automobile manufacturing center, it houses plants for global giants like Renault-Nissan, Hyundai, Daimler, and Ford. Other major industries, including Samsung, Motorola, and Apollo Tyres, have also established facilities here, contributing to its economic growth.
 The area offers excellent infrastructure with well-connected roads, including the Chennai-Bangalore Highway and proximity to Sriperumbudur. It also supports sustainable living with modern residential townships like Hiranandani Parks, offering eco-friendly amenities, schools, and healthcare facilities. The area's industrial boom has made it a hotspot for real estate investments, combining economic and lifestyle advantages
+</p>
 </body>
 </html>
 
