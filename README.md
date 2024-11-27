@@ -158,7 +158,7 @@ The area offers excellent infrastructure with well-connected roads, including th
 
 ```
 ## OUTPUT
-
+```
 ![alt text](<Screenshot 2024-11-26 094011.png>)
 ![alt text](<Screenshot (46).png>)
 ![alt text](<Screenshot (44).png>)
@@ -166,6 +166,7 @@ The area offers excellent infrastructure with well-connected roads, including th
 ![alt text](<Screenshot (47).png>)
 ![alt text](<Screenshot (49).png>)
 
-
+```
 ## RESULT
-The program for implementing image maps using HTML is executed successfully.
+The program for implementing image maps 
+using HTML is executed successfully.
