@@ -158,12 +158,12 @@ The area offers excellent infrastructure with well-connected roads, including th
 ## OUTPUT
 
 ```
-Screenshot 2024-11-26 094011.png
-Screenshot (46).png
-Screenshot (47).png
-Screenshot (44).png
-Screenshot (45).png
-Screenshot (49).png
+![alt text](<Screenshot 2024-11-26 094011-1.png>)
+![alt text](<Screenshot (46)-1-1.png>)
+![alt text](<Screenshot (47)-1.png>)
+![alt text](<Screenshot (44)-1.png>)
+![alt text](<Screenshot (45)-1.png>)
+![alt text](<Screenshot (49)-1.png>)
 
 ```
 ## RESULT
