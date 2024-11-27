@@ -159,14 +159,13 @@ The area offers excellent infrastructure with well-connected roads, including th
 ```
 ## OUTPUT
 
-```
-![alt text](<Screenshot 2024-11-26 094011-1.png>)
-![alt text](<Screenshot (46)-1-1.png>)
-![alt text](<Screenshot (47)-1.png>)
-![alt text](<Screenshot (44)-1.png>)
-![alt text](<Screenshot (45)-1.png>)
-![alt text](<Screenshot (49)-1.png>)
+![alt text](<Screenshot 2024-11-26 094011.png>)
+![alt text](<Screenshot (46).png>)
+![alt text](<Screenshot (44).png>)
+![alt text](<Screenshot (45).png>)
+![alt text](<Screenshot (47).png>)
+![alt text](<Screenshot (49).png>)
 
-```
+
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
